@@ -1,0 +1,71 @@
+<resources>
+    <string name="answer_btn_prep">dropDownMenuExample</string>
+    <string-array name="preps">
+        <item>On</item>
+        <item>In</item>
+        <item>Under</item>
+        <item>Behind</item>
+        <item>Between</item>
+        <item>InFrontOf</item>
+        <item>Near</item>
+    </string-array>
+    <string name="app_name">cmpproject001</string>
+    <string name="month_lesson_btn">Months</string>
+    <string name="mult_btn">Multiplication</string>
+    <string name="numbers">Number Game</string>
+    <string name="days">Days</string>
+    <string name="preposition_btn">Prepositions</string>
+    <string name="ilkbahar_text">Spring is the season when flowers bloom, trees become green, and animals wake up from hibernation. The weather gets warmer, and we often see rain showers.</string>
+    <string name="sonbahar_text">Autumn is when leaves change color and fall from trees. The weather starts to cool down, and we see beautiful red, orange, and yellow leaves.</string>
+    <string name="yaz_text">Summer is the hottest season. It\'s when we have longer days and lots of sunshine. We can go to the beach, swim, and enjoy outdoor activities.</string>
+    <string name="kis_text">Winter is the coldest season. It snows in some places, and everything becomes white. We can make snowmen and go sledding.</string>
+
+    <string name="clock_lesson_btn">Clocks</string>
+    <string name="login_btn">Login</string>
+    <string name="clock_lesson_text">An analog clock has a round shape with numbers from 1 to 12 around the edge. It also has two hands: the shorter one is called the hour hand, and the longer one is called the minute hand.
+
+To understand how to read an analog clock, let\'s start with the hour hand. The hour hand tells us what hour it is. Look at where the hour hand is pointing. If it\'s pointing to a number, that\'s the hour it is. For example, if the hour hand is pointing to 3, it means it\'s 3 o\'clock.
+
+Now let\'s move on to the minute hand. The minute hand tells us the minutes past the hour. Look at where the minute hand is pointing. Each full rotation of the minute hand is 60 minutes. The minutes are marked around the clock face in increments of 5 or sometimes 1.
+
+To read the minutes, first, find the number nearest to the tip of the minute hand. For example, if the minute hand is closest to the number 4, it means it\'s around 20 minutes past the hour. If it\'s closer to the number 8, it means it\'s around 40 minutes past the hour. Remember, each number represents a multiple of 5 minutes.
+
+You can also look at the position of the minute hand in relation to the hour hand to get a more accurate reading. If the minute hand is pointing directly at the 12, it means it\'s the beginning of the hour, either o\'clock or 60 minutes past the hour.
+
+To understand time more precisely, you can look at both the hour and minute hand together. For example, if the hour hand is pointing to 3 and the minute hand is pointing to 6, it means it\'s 3:30.</string>
+    <string name="clock_lesson_quiz">Take Quiz</string>
+
+
+    <string name="editTextTextPersonName">Email</string>
+    <string name="editTextTextPassword">Password</string>
+    <string name="registerMe">Register</string>
+
+    <string name="season_quiz_btn">Take Quiz</string>
+    <string name="season_lesson_btn">Seasons</string>
+    <string name="season_lesson_text">The seasons of the year refer to the four distinct periods of time that are characterized by certain weather conditions and changes in nature. The four seasons include spring, summer, fall, and winter, and each one has its unique characteristics and activities associated with it.
+
+Spring is the first season of the year, and it typically begins in March and lasts until June. This season is known for its warm weather, longer days, and blooming flowers. In many places, the weather during spring can be unpredictable, with sudden showers and windy days. The beginning of spring is marked by the vernal equinox, which is when the day and night are of equal length.
+
+Summer is the second season of the year, and it typically begins in June and lasts until September. This season is known for its hot weather, sunny days, and outdoor activities. Many people enjoy swimming, hiking, and camping during the summer months. Summer is also the time when many fruits and vegetables are harvested, and farmers\' markets are bustling with fresh produce.
+
+Fall, also known as autumn, is the third season of the year, and it typically begins in September and lasts until December. This season is known for its cool weather, shorter days, and changing leaves. The beginning of fall is marked by the autumnal equinox, which is when the day and night are of equal length. During fall, many people enjoy going apple picking, pumpkin carving, and taking long walks to enjoy the colorful foliage.
+
+Winter is the fourth season of the year, and it typically begins in December and lasts until March. This season is known for its cold weather, snowfall, and shorter days. Many people enjoy winter sports like skiing and ice skating, and the holiday season brings festive decorations and celebrations. The winter solstice marks the beginning of winter, which is the shortest day and longest night of the year.
+
+The changing of the seasons is caused by the Earth\'s position in relation to the sun. The Earth\'s axis is tilted at an angle, which causes different parts of the planet to receive varying amounts of sunlight throughout the year. During the summer months, the Earth is tilted towards the sun, which causes longer days and warmer temperatures. During the winter months, the Earth is tilted away from the sun, which causes shorter days and colder temperatures.
+
+In conclusion, the four seasons of the year each have their unique characteristics and activities associated with them. From the blooming flowers of spring to the snowy landscapes of winter, each season offers something special to enjoy. By understanding the changes that occur during each season, we can better appreciate the beauty of nature and the passing of time.</string>
+    <string name="onay_btn">Register</string>
+    <string name="hint_username">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="explanation_text">Sure! Here\'s a full-body home workout that you can do without any equipment:
+Jumping Jacks: Do 3 sets of 20 reps.
+Bodyweight Squats: Aim for 3 sets of 10-12 reps.
+Push-Ups: Aim for 3 sets of 8-12 reps.
+Lunges:   Aim for 3 sets of 10-12 reps on each leg.
+Plank:  Hold the position for 30-60 seconds, and aim for 3 sets.
+Glute Bridges: Aim for 3 sets of 10-12 reps.
+Bicycle Crunches: Aim for 3 sets of 20 reps.
+
+Remember to start with a warm-up, such as light cardio or dynamic stretching, and cool down with stretching to help prevent injury and improve flexibility. It\'s also important to listen to your body and progress gradually, adding reps or sets as you get stronger.</string>
+</resources>
